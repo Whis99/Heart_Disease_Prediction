@@ -25,3 +25,8 @@ The following functionality is completed:
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 - [Boostrap](https://getbootstrap.com)
 - [Kaggle](https://www.kaggle.com/)
+- [Numpy](https://numpy.org/)
+- [Scikit-learn](https://scikit-learn.org/stable/)
+- [Pandas](https://pandas.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
