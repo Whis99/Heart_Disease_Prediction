@@ -12,7 +12,7 @@ The following functionality is completed:
 
 - [x] User can enter the medical features.
 - [x] Predict button send the medical datas to the machine learning model.
-- [x] The machine learning model predict the datas and shows the result based on his model.
+- [x] The machine learning model predict the datas and shows the result based on its model.
 
 ## Demonstration
 
